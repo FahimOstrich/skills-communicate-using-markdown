@@ -4,5 +4,9 @@
 
 ### And here we have an even smaller one, h3
 
+Here I am adding an image too:
 
-I just tried header 1, 2 and 3 in this file.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+I just tried header 1, 2 and 3 in this file and also added an image.
