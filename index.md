@@ -4,6 +4,19 @@
 
 ### And here we have an even smaller one, h3
 
+Here is a code example to test correct markdown:
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+The following one is to test javascript markdown:
+
+```javascript
+var myVar = "Hello, world!";
+```
+
 Here I am adding an image too:
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
