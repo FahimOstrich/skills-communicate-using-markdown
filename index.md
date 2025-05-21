@@ -17,6 +17,13 @@ The following one is to test javascript markdown:
 var myVar = "Hello, world!";
 ```
 
+Let's prepare a task list for my GitHub journey:
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Enjoy the journey
+
 Here I am adding an image too:
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
